@@ -20,7 +20,11 @@
 }
 .cont-foto {
   margin-left: 10%;
-  margin-top: 10%;
+  margin-top: 8%;
+}
+.pic-foto{
+  height: 25%;
+  width: 25%;
 }
 .separador {
   background-color: rgb(238, 190, 32);
