@@ -1,0 +1,66 @@
+#top {
+  background-color: rgb(41, 41, 41);
+  height: 100px;
+}
+#iniciar_sesion {
+  margin-top: 20px;
+  margin-right: 10px;
+}
+#titulo {
+  color: white;
+  margin-top: 25px;
+  margin-right: 8%;
+}
+.texto {
+  font-size: 14pt;
+}
+#acercademi {
+  margin-top: 11%;
+  margin-left: 18%;
+}
+.cont-foto {
+  margin-left: 10%;
+  margin-top: 10%;
+}
+.separador {
+  background-color: rgb(238, 190, 32);
+  height: 5px;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 3%;
+}
+#pic-cursos {
+  height: 300px;
+  width: 300px;
+  margin-left: 40%;
+  margin-top: 11%;
+}
+.items {
+  font-style: italic;
+  font-size: 14pt;
+}
+.cursos {
+  margin-top: 11%;
+}
+#con-actuales {
+  margin-top: 3.5%;
+}
+.sangria1 {
+  margin-left: 18%;
+  height: 168px;
+}
+.sangria {
+  margin-left: 9%;
+}
+footer {
+  margin-top: 2.5%;
+  height: 100px;
+  background-color: rgb(41, 41, 41);
+}
+.link {
+  color: rgb(238, 190, 32);
+}
+#links {
+  margin-top: 1%;
+  margin-left: 1%;
+}
